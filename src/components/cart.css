@@ -1,0 +1,38 @@
+
+
+.product-list h2 , .order-summary h2 {
+    border-bottom: 0.5px solid #f7c16a;
+    padding-bottom: 10px;
+}
+.items-parent {
+    width: 90%;
+
+}
+
+.order-summary{
+    box-shadow: 1px 1px 4px #f7c16a;
+    border-radius: 6px;
+    height: 270px;
+    padding: 20px;
+}
+.items-parent .item{
+    border-bottom: 0.5px solid #f7c16a;
+    padding: 20px 0;
+}
+.cart-img-parent{
+   max-width:  100px;
+
+}
+.cart-img-parent img {
+    width:100% ;
+    filter: drop-shadow(3px 3px 5px  #0A2647);
+    border-radius: 6px;
+}
+.quantity{
+    box-shadow: 1px 1px 4px #f7c16a;
+    border-radius: 6px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+/* // #f7c16a  #0A2647 */

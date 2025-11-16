@@ -1,0 +1,25 @@
+.navbar-container{
+    padding: 10px 20px;
+}
+.navbar-container .links a{
+    color: #0A2647 !important;
+    transition: all 0.3s ease-in-out;
+    
+}
+.navbar-container .links a:hover{
+    color: #f7c16a !important;
+    transform: scale(1.2);
+}
+
+.is-disabled{
+    display: none !important;
+}
+.user{
+    color: #0A2647 !important;
+    font-size:22px ;
+    padding: 0px 20px;
+}
+.user p{
+    display: inline;
+    text-transform: capitalize;
+}
