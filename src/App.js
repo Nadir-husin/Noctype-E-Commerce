@@ -43,7 +43,7 @@ function App() {
 
 
           
-    <Router>
+    <Router basename="/Noctype-E-Commerce">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
