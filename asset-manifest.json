@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Noctype-E-Commerce/static/css/main.09491cc1.css",
-    "main.js": "/Noctype-E-Commerce/static/js/main.56b0c02f.js",
+    "main.js": "/Noctype-E-Commerce/static/js/main.2262c001.js",
     "static/js/453.457dbc16.chunk.js": "/Noctype-E-Commerce/static/js/453.457dbc16.chunk.js",
     "static/media/women.jpg": "/Noctype-E-Commerce/static/media/women.e3cc8e9067e8b9a5f700.jpg",
     "static/media/electronics.jpg": "/Noctype-E-Commerce/static/media/electronics.cdfba80103b37dc5906e.jpg",
@@ -10,11 +10,11 @@
     "static/media/landing-image.png": "/Noctype-E-Commerce/static/media/landing-image.86a9afa9015835441220.png",
     "index.html": "/Noctype-E-Commerce/index.html",
     "main.09491cc1.css.map": "/Noctype-E-Commerce/static/css/main.09491cc1.css.map",
-    "main.56b0c02f.js.map": "/Noctype-E-Commerce/static/js/main.56b0c02f.js.map",
+    "main.2262c001.js.map": "/Noctype-E-Commerce/static/js/main.2262c001.js.map",
     "453.457dbc16.chunk.js.map": "/Noctype-E-Commerce/static/js/453.457dbc16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09491cc1.css",
-    "static/js/main.56b0c02f.js"
+    "static/js/main.2262c001.js"
   ]
 }
