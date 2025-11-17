@@ -12,42 +12,17 @@ export default function Checkoutform (){
 
     const [state, setState] = useState("");
         const countryStates = {
-            egypt: [
-            "Cairo",
-            "Giza",
-            "Alexandria",
-            "Dakahlia",
-            "Sharqia",
-            "Gharbia",
-            "Qalyubia",
-            "Fayoum",
-            "Minya",
-            "Assiut",
-            "Sohag",
-            "Qena",
-            "Aswan",
-            "Red Sea",
-            "South Sinai",
-            "North Sinai",
-            ],
+    egypt: ["Cairo", "Giza", "Alexandria", "Aswan"],
+    saudi: ["Riyadh", "Jeddah", "Dammam"],
+    uae: ["Dubai", "Abu Dhabi", "Sharjah"],
+    kuwait: ["Kuwait City"],
+    qatar: ["Doha"],
+    usa: ["California", "Texas", "New York", "Florida"],
+    uk: ["London", "Manchester", "Liverpool"],
+    germany: ["Berlin", "Munich", "Hamburg"],
 
-            usa: [
-            "California",
-            "Texas",
-            "Florida",
-            "New York",
-            "Illinois",
-            "Ohio",
-            "Georgia",
-            "Pennsylvania",
-            "Michigan",
-            "Arizona",
-            ],
+ };
 
-            uae: ["Dubai", "Abu Dhabi", "Sharjah", "Ajman", "Ras Al Khaimah", "Fujairah"],
-
-            ksa: ["Riyadh", "Jeddah", "Dammam", "Mecca", "Medina", "Khobar"],
-        };
 
 
 
